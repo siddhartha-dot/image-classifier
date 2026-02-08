@@ -50,6 +50,7 @@ sympy==1.14.0
 tokenizers==0.22.2
 tomlkit==0.13.3
 torch==2.10.0
+torchvision==0.25.0
 tqdm==4.67.1
 transformers==5.1.0
 typer==0.21.1
